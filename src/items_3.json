@@ -1,0 +1,27 @@
+[
+    {
+        "id": 15,
+        "name": "Elemento 1",
+        "image": "/prototipes/preproyecto/img/tipography.webp"
+    },
+    {
+        "id": 25,
+        "name": "Elemento 2",
+        "image": "/prototipes/preproyecto/img/tipography.webp"
+    },
+    {
+        "id": 35,
+        "name": "Elemento 3",
+        "image": "/prototipes/preproyecto/img/tipography.webp"
+    },
+    {
+        "id": 45,
+        "name": "Elemento 4",
+        "image": "/prototipes/preproyecto/img/tipography.webp"
+    },
+    {
+        "id": 55,
+        "name": "Elemento 5",
+        "image": "/prototipes/preproyecto/img/tipography.webp"
+    }
+]

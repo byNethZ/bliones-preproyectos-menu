@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Item 1",
+        "image": "/prototipes/preproyecto/img/menu-example.jpg"
+    },
+    {
+        "id": 2,
+        "name": "item 2",
+        "image": "/prototipes/preproyecto/img/menu-example.jpg"
+    },
+    {
+        "id": 3,
+        "name": "item 3",
+        "image": "/prototipes/preproyecto/img/menu-example.jpg"
+    },
+    {
+        "id": 4,
+        "name": "item 4",
+        "image": "/prototipes/preproyecto/img/menu-example.jpg"
+    },
+    {
+        "id": 5,
+        "name": "item 5",
+        "image": "/prototipes/preproyecto/img/menu-example.jpg"
+    }
+]

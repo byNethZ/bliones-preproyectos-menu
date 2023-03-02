@@ -1,0 +1,56 @@
+.card{
+    width: 100%;
+    margin-bottom: 2rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 0.5rem;
+
+}
+.card img{
+    width: 100%;
+}
+
+.info-card{
+    text-align: center;
+}
+
+.clicked{
+    background-color: #0034c8;
+    color: #ffffff;
+}
+
+.fadeIn{
+    animation: fadeIn 700ms;
+    animation-fill-mode: forwards;
+    position: relative;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        left: 2rem;
+    }
+    to {
+        opacity: 1;
+        left: 0;
+    }
+}
+
+@media (min-width: 768px) {
+    .card{
+        width: 40%;
+    }
+}
+
+@media (min-width: 968px) {
+    .card{
+        width: 23%;
+    }
+}
+
+@media (min-width: 1208px) {
+    .card{
+        width: 15%;
+    }
+}

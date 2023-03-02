@@ -1,0 +1,27 @@
+[
+    {
+        "id": 10,
+        "name": "Elemento 1",
+        "image": "/prototipes/preproyecto/img/menu-example.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Elemento 2",
+        "image": "/prototipes/preproyecto/img/menu-example.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Elemento 3",
+        "image": "/prototipes/preproyecto/img/menu-example.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Elemento 4",
+        "image": "/prototipes/preproyecto/img/menu-example.jpg"
+    },
+    {
+        "id": 50,
+        "name": "Elemento 5",
+        "image": "/prototipes/preproyecto/img/menu-example.jpg"
+    }
+]

@@ -1,0 +1,53 @@
+.button-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.button-container button{
+    width: 95%;
+    max-width: 10rem;
+}
+.card-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 90%;
+    max-width: 35rem;
+    margin: 3rem auto 10rem auto;
+}
+
+.form{
+    width: 90%;
+    padding: 3rem;
+
+}
+.form-rows{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-rows label, .form-rows input{
+    margin: 0.5rem 0;
+    text-align: center;
+}
+
+.form-rows label{
+
+}
+
+.form-rows input{
+    border: 1px solid rgba(0, 0, 0, 0.02);
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-radius: 0.5rem;
+    height: 2rem;
+}
+
+button:disabled{
+    filter: opacity(.5);
+}

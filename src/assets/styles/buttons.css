@@ -1,0 +1,38 @@
+button{
+    padding: 1rem;
+    border-radius: 1.5rem;
+    cursor: pointer;
+}
+
+.next{
+    background-color: #0aa770;
+    border: 1px solid #0aa770;
+    color: #fff;
+}
+
+.next:hover{
+    border: 1px solid #035e3e;
+    background-color: #035e3e;
+}
+
+.last{
+    border: 1px solid #a4a4a4;
+    background-color: transparent;
+    color: #a4a4a4;
+}
+
+.last:hover{
+    background-color: #a4a4a4;
+    color: #fff;
+}
+
+.submit{
+    background-color: #0034c8;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+}
+
+.submit:hover{
+    background-color: #022585;
+}
